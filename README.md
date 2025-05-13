@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Bão?
 
-<!--
-**JoaoMarion/JoaoMarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo **João Marion**
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Linguagens:** Java, C++, Typescript
+- 🛠️ **Ferramentas:** Git, Docker, VS Code, IntelliJ
+- 🌐 **Frameworks:** Spring Boot, Angular
+
+## 📌 Projetos em destaque
+
+- 🔧 [Movieflix](https://github.com/JoaoMarion/Movieflix) — Api para catalogos de filmes focada em SpringScurity
+- 👁‍🗨 [MemoryPool](https://github.com/JoaoMarion/MemoryPool) — MemoryPool feita em C++ para carregamento de particulas
+## 📊 GitHub Stats
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMarion&layout=compact&theme=radical)
+
+## 📫 Como me encontrar
+
+- LinkedIn: [linkedin.com/in/JoaoMarion](https://www.linkedin.com/in/jo%C3%A3o-pedro-ribeiro-marion-462ab222b/)
+- E-mail: joaormarion@gmail.com
+
+---
+
+> “A riqueza está na diferença.” — Guimares Rosa
